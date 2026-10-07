@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-07T09:28:23.723Z",
+  "total_count": 987,
+  "pos_counts": {
+    "noun": 520,
+    "verb": 222,
+    "adj": 217,
+    "adv": 26,
+    "expr": 2,
+    "pron": 0,
+    "prep": 0
+  },
+  "frequency_method": "Lexique 3.83：NFC小写 lemma+POS 去重；MAX(freqlemfilms2)降序，MAX(freqlemlivres)次序，重复屈折行的已聚合频率不相加；并列按法语lemma和POS排序。这是本项目派生排名，不是Lexique官方名次。",
+  "frequency_range": [
+    800,
+    4000
+  ],
+  "target_size": {
+    "min": 900,
+    "max": 1300
+  },
+  "final_pos_targets": {
+    "noun": 500,
+    "verb": 200,
+    "adj": 200
+  },
+  "core_count": 58,
+  "status": "ready",
+  "etymology_note_language": "fr"
+}

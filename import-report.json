@@ -1,0 +1,702 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-07T09:28:23.723Z",
+  "total_count": 987,
+  "valid_count": 987,
+  "invalid_count": 0,
+  "duplicate_lemmas": [],
+  "noun_count": 520,
+  "missing_gender_count": 0,
+  "missing_gender_rate": 0,
+  "missing_examples_count": 0,
+  "fewer_than_two_examples_count": 0,
+  "missing_meaning_zh_count": 0,
+  "unclassified_theme_count": 50,
+  "low_etymology_count": 44,
+  "low_etymology_rate": 0.044579533941236066,
+  "example_length_distribution": {
+    "sentence_count": 1974,
+    "min": 2,
+    "max": 13,
+    "average": 6.479736575481256,
+    "buckets": {
+      "1-10": 1970,
+      "11-20": 4,
+      "21-30": 0,
+      "31+": 0
+    }
+  },
+  "illegal_characters": [],
+  "issues": [
+    {
+      "index": 287,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 290,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 291,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 293,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 295,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 320,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 331,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 334,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 356,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 361,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 362,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 367,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 375,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 384,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 391,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 392,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 426,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 458,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 459,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 471,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 481,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 484,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 487,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 504,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 505,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 518,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 519,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 520,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 591,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 603,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 605,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 647,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 667,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 670,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 674,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 731,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 784,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 786,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 787,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 788,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 792,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 793,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 795,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 796,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 919,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 924,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 937,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 955,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 965,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    },
+    {
+      "index": 976,
+      "path": "theme",
+      "code": "unclassified_theme",
+      "message": "“其他”是合法主题，但统计为尚未归入四大主题场。",
+      "severity": "warning"
+    }
+  ],
+  "warnings": [
+    {
+      "code": "unclassified_theme",
+      "message": "50 条词条无法归入四大主题场；合法值“其他”也计入该统计。"
+    }
+  ],
+  "preview": [
+    {
+      "lemma": "avis",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "看法",
+        "意见"
+      ],
+      "theme": "媒介阅读",
+      "example_fr": "Donne ton avis.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "utile",
+      "pos": "adj",
+      "meaning_zh": [
+        "有用的",
+        "有益的"
+      ],
+      "theme": "日常生活",
+      "example_fr": "Ce site est utile.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "rare",
+      "pos": "adj",
+      "meaning_zh": [
+        "稀少的；罕见的"
+      ],
+      "theme": "日常生活",
+      "example_fr": "La pluie est rare dans ce pays.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "uniquement",
+      "pos": "adv",
+      "meaning_zh": [
+        "仅仅；只"
+      ],
+      "theme": "日常生活",
+      "example_fr": "Dis uniquement ce que tu as entendu !",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "marié",
+      "pos": "adj",
+      "meaning_zh": [
+        "已婚的"
+      ],
+      "theme": "人物描摹",
+      "example_fr": "Je suis marié à un avocat.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "illégal",
+      "pos": "adj",
+      "meaning_zh": [
+        "违法的；不合法的"
+      ],
+      "theme": "事件社会",
+      "example_fr": "Ce que tu as fait est illégal.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "conduire",
+      "pos": "verb",
+      "meaning_zh": [
+        "驾驶；开车",
+        "带领；引导"
+      ],
+      "theme": "日常生活",
+      "example_fr": "Je ne veux pas conduire.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "pardon",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "原谅",
+        "宽恕"
+      ],
+      "theme": "人物描摹",
+      "example_fr": "Tu dois demander pardon à Tom.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "journaliste",
+      "pos": "noun",
+      "gender": "mf",
+      "meaning_zh": [
+        "记者",
+        "新闻工作者"
+      ],
+      "theme": "媒介阅读",
+      "example_fr": "Je me suis décidé à devenir journaliste.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "boutique",
+      "pos": "noun",
+      "gender": "mf",
+      "meaning_zh": [
+        "商店",
+        "小店"
+      ],
+      "theme": "日常生活",
+      "example_fr": "Tom ferma la boutique tôt ce soir.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "fonction",
+      "pos": "noun",
+      "gender": "f",
+      "meaning_zh": [
+        "功能",
+        "职务"
+      ],
+      "theme": "其他",
+      "example_fr": "Il est apte à exercer cette fonction.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "sensation",
+      "pos": "noun",
+      "gender": "f",
+      "meaning_zh": [
+        "感觉",
+        "感受"
+      ],
+      "theme": "人物描摹",
+      "example_fr": "J'ai la sensation de faire du surplace.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "jalousie",
+      "pos": "noun",
+      "gender": "f",
+      "meaning_zh": [
+        "嫉妒",
+        "吃醋"
+      ],
+      "theme": "人物描摹",
+      "example_fr": "Je ne supporte pas sa jalousie.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "équilibre",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "平衡",
+        "均衡"
+      ],
+      "theme": "其他",
+      "example_fr": "Il est difficile de trouver un équilibre.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "sommeil",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "睡眠",
+        "困意",
+        "休眠；不活动状态"
+      ],
+      "theme": "事件社会",
+      "example_fr": "Il a besoin de sommeil.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "critique",
+      "pos": "noun",
+      "gender": "mf",
+      "meaning_zh": [
+        "批评；负面评价",
+        "评论；评析"
+      ],
+      "theme": "媒介阅读",
+      "example_fr": "Tu es trop sensible à la critique.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "inventer",
+      "pos": "verb",
+      "meaning_zh": [
+        "发明；创造",
+        "编造"
+      ],
+      "theme": "媒介阅读",
+      "example_fr": "Les enfants aiment toujours inventer leurs propres jeux.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "enseigner",
+      "pos": "verb",
+      "meaning_zh": [
+        "教；教授"
+      ],
+      "theme": "事件社会",
+      "example_fr": "Je suis ici pour enseigner le russe.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "apprécier",
+      "pos": "verb",
+      "meaning_zh": [
+        "欣赏；喜欢",
+        "评价；估量"
+      ],
+      "theme": "人物描摹",
+      "example_fr": "Je pense que tu vas apprécier ça.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    },
+    {
+      "lemma": "augmenter",
+      "pos": "verb",
+      "meaning_zh": [
+        "增加；提高",
+        "上涨"
+      ],
+      "theme": "日常生活",
+      "example_fr": "Il faut augmenter un peu la vitesse.",
+      "etymology_confidence": "medium",
+      "source_count": 4
+    }
+  ],
+  "pipeline": {
+    "stage": 7,
+    "candidate_count": 3082,
+    "reviewed_entries": 928,
+    "curriculum_anchors": 60,
+    "skipped": [
+      {
+        "lemma": "réfléchi",
+        "pos": "adj",
+        "reason": "Missing reviewed sentence selection."
+      }
+    ],
+    "pos_counts": {
+      "noun": 520,
+      "verb": 222,
+      "adj": 217,
+      "adv": 26,
+      "expr": 2,
+      "pron": 0,
+      "prep": 0
+    },
+    "http": {
+      "requests": 0,
+      "cache_hits": 2782,
+      "revalidated": 0,
+      "retries": 0,
+      "failures": 0,
+      "cache_corrupt": 0
+    },
+    "frequency_http": {
+      "requests": 0,
+      "cache_hits": 5
+    },
+    "frequency_range": [
+      800,
+      4000
+    ],
+    "core_count": 58,
+    "mode": "http-cache-first",
+    "final_targets": {
+      "min": 900,
+      "max": 1300,
+      "noun": 500,
+      "verb": 200,
+      "adj": 200
+    },
+    "license_evidence": {
+      "dataset": "Lexique 3.83",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Boris New & Christophe Pallier; Ronald Peereman, Sophie Dufour, Christian Lachaud and other Lexique contributors",
+      "source_urls": [
+        "https://www.lexique.org/databases/Lexique383/README-Lexique.txt",
+        "https://www.lexique.org/databases/Lexique383/Lexique383.zip"
+      ],
+      "retrieved_at": [
+        "2026-10-06T16:05:48.917Z",
+        "2026-10-06T16:12:05.765Z"
+      ],
+      "readme_license_line": "[CC BY SA40.0](LICENSE-CC-BY-SA4.0.txt)",
+      "homepage_href": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "homepage_fetched_at": "2026-10-06T16:05:47.875Z",
+      "note": "以Lexique3.83官方发行目录README与发行包内同版本README的一致许可声明为准，两者明确指向CC BY-SA4.0文件名（显示文字误排SA40.0）。其独立许可文本链接404；现行官网主要介绍Lexique4，许可链接显示文字为BY-SA、实际href为BY-NC，记录这一不一致但不将其覆写3.83的版本具体声明。较早手册提及GPL，年代早于此发行README。个人非商用为本项目用途。",
+      "publication": "New, B., Pallier, C., Brysbaert, M., & Ferrand, L. (2004). Lexique 2: A New French Lexical Database. Behavior Research Methods, Instruments, & Computers, 36(3), 516–524."
+    }
+  }
+}

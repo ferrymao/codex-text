@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-07T09:28:31.109Z",
+  "total_count": 60,
+  "valid_count": 60,
+  "invalid_count": 0,
+  "duplicate_lemmas": [],
+  "noun_count": 26,
+  "missing_gender_count": 0,
+  "missing_gender_rate": 0,
+  "missing_examples_count": 0,
+  "fewer_than_two_examples_count": 0,
+  "missing_meaning_zh_count": 0,
+  "unclassified_theme_count": 0,
+  "low_etymology_count": 3,
+  "low_etymology_rate": 0.05,
+  "example_length_distribution": {
+    "sentence_count": 120,
+    "min": 2,
+    "max": 12,
+    "average": 4.125,
+    "buckets": {
+      "1-10": 119,
+      "11-20": 1,
+      "21-30": 0,
+      "31+": 0
+    }
+  },
+  "illegal_characters": [],
+  "issues": [],
+  "warnings": [],
+  "preview": [
+    {
+      "lemma": "avis",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "看法",
+        "意见"
+      ],
+      "theme": "媒介阅读",
+      "example_fr": "Donne ton avis.",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "effort",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "努力",
+        "费力"
+      ],
+      "theme": "人物描摹",
+      "example_fr": "Faites un effort !",
+      "etymology_confidence": "high",
+      "source_count": 3
+    },
+    {
+      "lemma": "opinion",
+      "pos": "noun",
+      "gender": "f",
+      "meaning_zh": [
+        "观点",
+        "意见"
+      ],
+      "theme": "媒介阅读",
+      "example_fr": "Nous respectons ton opinion.",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "logement",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "住房",
+        "住所"
+      ],
+      "theme": "日常生活",
+      "example_fr": "Je cherchais un logement.",
+      "etymology_confidence": "high",
+      "source_count": 3
+    },
+    {
+      "lemma": "besoin",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "需要",
+        "需求"
+      ],
+      "theme": "日常生活",
+      "example_fr": "Nous en avons besoin.",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "réunion",
+      "pos": "noun",
+      "gender": "f",
+      "meaning_zh": [
+        "会议",
+        "聚会"
+      ],
+      "theme": "事件社会",
+      "example_fr": "Je suis en réunion.",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "résultat",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "结果",
+        "成绩"
+      ],
+      "theme": "事件社会",
+      "example_fr": "Le résultat est excellent !",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "problème",
+      "pos": "noun",
+      "gender": "m",
+      "meaning_zh": [
+        "问题",
+        "困难"
+      ],
+      "theme": "事件社会",
+      "example_fr": "Ce problème persiste.",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "population",
+      "pos": "noun",
+      "gender": "f",
+      "meaning_zh": [
+        "人口",
+        "居民群体"
+      ],
+      "theme": "事件社会",
+      "example_fr": "La population augmente.",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "comprendre",
+      "pos": "verb",
+      "meaning_zh": [
+        "理解",
+        "明白"
+      ],
+      "theme": "人物描摹",
+      "example_fr": "Tu veux comprendre.",
+      "etymology_confidence": "high",
+      "source_count": 3
+    },
+    {
+      "lemma": "emporter",
+      "pos": "verb",
+      "meaning_zh": [
+        "带走",
+        "携带离开"
+      ],
+      "theme": "日常生活",
+      "example_fr": "Mieux vaudrait emporter un parapluie.",
+      "etymology_confidence": "high",
+      "source_count": 3
+    },
+    {
+      "lemma": "proposer",
+      "pos": "verb",
+      "meaning_zh": [
+        "提议",
+        "提出"
+      ],
+      "theme": "事件社会",
+      "example_fr": "Il faut proposer des solutions réalisables.",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "se rendre compte",
+      "pos": "verb",
+      "meaning_zh": [
+        "意识到",
+        "察觉"
+      ],
+      "theme": "人物描摹",
+      "example_fr": "Pierre pouvait se rendre compte qu'elle s'ennuyait.",
+      "etymology_confidence": "high",
+      "source_count": 3
+    },
+    {
+      "lemma": "se promener",
+      "pos": "verb",
+      "meaning_zh": [
+        "散步",
+        "闲逛"
+      ],
+      "theme": "日常生活",
+      "example_fr": "Se promener est agréable.",
+      "etymology_confidence": "high",
+      "source_count": 3
+    },
+    {
+      "lemma": "éventuel",
+      "pos": "adj",
+      "meaning_zh": [
+        "可能发生的",
+        "或有的"
+      ],
+      "theme": "事件社会",
+      "example_fr": "Corrigez les erreurs éventuelles.",
+      "etymology_confidence": "high",
+      "source_count": 3
+    },
+    {
+      "lemma": "possible",
+      "pos": "adj",
+      "meaning_zh": [
+        "可能的",
+        "可行的"
+      ],
+      "theme": "事件社会",
+      "example_fr": "C'est possible !",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "responsable",
+      "pos": "adj",
+      "meaning_zh": [
+        "负责的",
+        "负有责任的"
+      ],
+      "theme": "人物描摹",
+      "example_fr": "Il est responsable.",
+      "etymology_confidence": "medium",
+      "source_count": 3
+    },
+    {
+      "lemma": "cependant",
+      "pos": "adv",
+      "meaning_zh": [
+        "然而",
+        "不过"
+      ],
+      "theme": "媒介阅读",
+      "example_fr": "Cependant, il existe une solution.",
+      "etymology_confidence": "high",
+      "source_count": 3
+    },
+    {
+      "lemma": "surtout",
+      "pos": "adv",
+      "meaning_zh": [
+        "尤其",
+        "最重要的是"
+      ],
+      "theme": "媒介阅读",
+      "example_fr": "Surtout, prenez votre temps.",
+      "etymology_confidence": "high",
+      "source_count": 3
+    },
+    {
+      "lemma": "d'ailleurs",
+      "pos": "expr",
+      "meaning_zh": [
+        "此外",
+        "再说"
+      ],
+      "theme": "媒介阅读",
+      "example_fr": "J'ai sommeil, d'ailleurs il est tard.",
+      "etymology_confidence": "low",
+      "source_count": 3
+    }
+  ]
+}

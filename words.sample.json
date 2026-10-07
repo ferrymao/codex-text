@@ -1,0 +1,3477 @@
+[
+  {
+    "id": "e69cbf14caaf947b1f73",
+    "lemma": "avis",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "看法",
+      "意见"
+    ],
+    "ipa": "a.vi",
+    "theme": "媒介阅读",
+    "etymology": {
+      "root": "visum",
+      "breakdown": [
+        "à",
+        "vis（古法语）"
+      ],
+      "origin_lang": "古法语；上溯拉丁语",
+      "note": "词源段记载 à 与古法语 vis 在旧表达中合并；更早的 visum 意为所见。此为历史来源。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-意见与观点",
+      "members": [
+        {
+          "word": "opinion",
+          "diff_key": "强调个人的观点立场"
+        }
+      ],
+      "contrast_note": "较个人、简短的意见"
+    },
+    "examples": [
+      {
+        "fr": "Donne ton avis.",
+        "zh": "说说你的看法。",
+        "source": "tatoeba",
+        "attribution": "Talwit · Tatoeba #8192144 · https://tatoeba.org/en/sentences/show/8192144 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Je partage votre avis.",
+        "zh": "我赞同您的意见。",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #9106530 · https://tatoeba.org/en/sentences/show/9106530 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=avis&oldid=39868043",
+        "https://tatoeba.org/en/sentences/show/8192144",
+        "https://tatoeba.org/en/sentences/show/9106530"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.082Z"
+    }
+  },
+  {
+    "id": "d08f046c0137b48f9141",
+    "lemma": "choix",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "选择",
+      "可选项"
+    ],
+    "ipa": "ʃwa",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "choisir",
+      "breakdown": [
+        "choisir"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段将此名词解释为 choisir 的无后缀动词派生名词，不把 -x 当作词缀。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-选择与决定",
+      "members": [
+        {
+          "word": "décision",
+          "diff_key": "强调作出最终决定"
+        }
+      ],
+      "contrast_note": "选择强调可选方案"
+    },
+    "examples": [
+      {
+        "fr": "Ce choix est difficile.",
+        "zh": "这个选择很难。",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #13867487 · https://tatoeba.org/en/sentences/show/13867487 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Justifiez votre choix !",
+        "zh": "请说明您作出这一选择的理由！",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #13511841 · https://tatoeba.org/en/sentences/show/13511841 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=choix&oldid=39772698",
+        "https://tatoeba.org/en/sentences/show/13867487",
+        "https://tatoeba.org/en/sentences/show/13511841"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.084Z"
+    }
+  },
+  {
+    "id": "1d4175750edbf2384002",
+    "lemma": "décision",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "决定",
+      "决策"
+    ],
+    "ipa": "de.si.zjɔ̃",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "decisio",
+      "breakdown": [
+        "de-（拉丁语）",
+        "caedo（拉丁语）"
+      ],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载 decisio 来自 decido；de- 与 caedo 是拉丁语来源的构件，不是现代法语直接拼接。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-选择与决定",
+      "members": [
+        {
+          "word": "choix",
+          "diff_key": "强调从多个选项中选择"
+        }
+      ],
+      "contrast_note": "决定强调最终定案"
+    },
+    "examples": [
+      {
+        "fr": "Prenez une décision !",
+        "zh": "请作出决定！",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #4625958 · https://tatoeba.org/en/sentences/show/4625958 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Ma décision est prise.",
+        "zh": "我已经作出了决定。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #13370689 · https://tatoeba.org/en/sentences/show/13370689 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=d%C3%A9cision&oldid=39771007",
+        "https://tatoeba.org/en/sentences/show/4625958",
+        "https://tatoeba.org/en/sentences/show/13370689"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.084Z"
+    }
+  },
+  {
+    "id": "949c767ddec6644b23f1",
+    "lemma": "effort",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "努力",
+      "费力"
+    ],
+    "ipa": "e.fɔʁ",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "efforcer",
+      "breakdown": [
+        "efforcer"
+      ],
+      "origin_lang": "古法语／法语",
+      "note": "词源段以 TLFi 为据，记载古法语 esfort，并解释为 efforcer 的动词派生名词。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-努力与劳动",
+      "members": [
+        {
+          "word": "travail",
+          "diff_key": "强调工作或劳动本身"
+        }
+      ],
+      "contrast_note": "努力强调投入的精力"
+    },
+    "examples": [
+      {
+        "fr": "Faites un effort !",
+        "zh": "请努力一下！",
+        "source": "tatoeba",
+        "attribution": "Micsmithel · Tatoeba #8690443 · https://tatoeba.org/en/sentences/show/8690443 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Vos efforts seront récompensés.",
+        "zh": "您的努力会得到回报。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #13386547 · https://tatoeba.org/en/sentences/show/13386547 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=effort&oldid=39770646",
+        "https://tatoeba.org/en/sentences/show/8690443",
+        "https://tatoeba.org/en/sentences/show/13386547"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.084Z"
+    }
+  },
+  {
+    "id": "1500b08ca5d3c493af28",
+    "lemma": "environnement",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "环境",
+      "周围条件"
+    ],
+    "ipa": "ɑ̃.vi.ʁɔn.mɑ̃",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "environner",
+      "breakdown": [
+        "environner",
+        "-ment"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段引 TLFi 和 Littré，明确 environner 加 -ment；生态环境义在 20 世纪才出现。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-环境与背景",
+      "members": [
+        {
+          "word": "milieu",
+          "diff_key": "常指社会或生活背景"
+        }
+      ],
+      "contrast_note": "环境常指生态条件"
+    },
+    "examples": [
+      {
+        "fr": "Protège l'environnement !",
+        "zh": "保护环境！",
+        "source": "tatoeba",
+        "attribution": "Micsmithel · Tatoeba #8679859 · https://tatoeba.org/en/sentences/show/8679859 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "L'environnement nous concerne tous.",
+        "zh": "环境与我们每个人都有关。",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #12410163 · https://tatoeba.org/en/sentences/show/12410163 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=environnement&oldid=39773867",
+        "https://tatoeba.org/en/sentences/show/8679859",
+        "https://tatoeba.org/en/sentences/show/12410163"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.084Z"
+    }
+  },
+  {
+    "id": "53f784d716d7889aadf1",
+    "lemma": "expérience",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "经验",
+      "经历",
+      "实验"
+    ],
+    "ipa": "ɛks.pe.ʁjɑ̃s",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "experientia",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 experientia；本样例不根据现代拼写推测更深的词根。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-经历与经验",
+      "members": [
+        {
+          "word": "vécu",
+          "diff_key": "侧重亲身经历"
+        }
+      ],
+      "contrast_note": "经验也可指科学实验"
+    },
+    "examples": [
+      {
+        "fr": "Je manque d'expérience.",
+        "zh": "我缺乏经验。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #12337422 · https://tatoeba.org/en/sentences/show/12337422 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Faisons une expérience scientifique.",
+        "zh": "我们做一个科学实验吧。",
+        "source": "tatoeba",
+        "attribution": "carlosalberto · Tatoeba #11539813 · https://tatoeba.org/en/sentences/show/11539813 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=exp%C3%A9rience&oldid=39773688",
+        "https://tatoeba.org/en/sentences/show/12337422",
+        "https://tatoeba.org/en/sentences/show/11539813"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.085Z"
+    }
+  },
+  {
+    "id": "edf0f6bdbd1cb102a744",
+    "lemma": "opinion",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "观点",
+      "意见"
+    ],
+    "ipa": "ɔ.pi.njɔ̃",
+    "theme": "媒介阅读",
+    "etymology": {
+      "root": "opinio",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 opinio；不将现代拼写中的 -ion 自动解释为本词的法语派生后缀。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-意见与观点",
+      "members": [
+        {
+          "word": "avis",
+          "diff_key": "常指简短意见或建议"
+        }
+      ],
+      "contrast_note": "观点更侧重个人立场"
+    },
+    "examples": [
+      {
+        "fr": "Nous respectons ton opinion.",
+        "zh": "我们尊重你的意见。",
+        "source": "tatoeba",
+        "attribution": "genes1s · Tatoeba #13329817 · https://tatoeba.org/en/sentences/show/13329817 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Mon opinion a changé.",
+        "zh": "我的看法变了。",
+        "source": "tatoeba",
+        "attribution": "Aiji · Tatoeba #10960057 · https://tatoeba.org/en/sentences/show/10960057 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=opinion&oldid=39868044",
+        "https://tatoeba.org/en/sentences/show/13329817",
+        "https://tatoeba.org/en/sentences/show/10960057"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.085Z"
+    }
+  },
+  {
+    "id": "b5148972292402b74e06",
+    "lemma": "métier",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "职业",
+      "专业手艺"
+    ],
+    "ipa": "me.tje",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "ministerium",
+      "breakdown": [],
+      "origin_lang": "古法语；上溯拉丁语",
+      "note": "词源段记载古法语 mestier 来自拉丁语 ministerium（服务）；与 ministère 同源。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-职业与工作",
+      "members": [
+        {
+          "word": "profession",
+          "diff_key": "职业，语域较正式"
+        }
+      ],
+      "contrast_note": "职业常强调技能"
+    },
+    "examples": [
+      {
+        "fr": "J'aime mon métier.",
+        "zh": "我喜欢自己的职业。",
+        "source": "tatoeba",
+        "attribution": "Blabla · Tatoeba #3359906 · https://tatoeba.org/en/sentences/show/3359906 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Nous voulons changer de métier.",
+        "zh": "我们想换个职业。",
+        "source": "tatoeba",
+        "attribution": "Rafik · Tatoeba #13445941 · https://tatoeba.org/en/sentences/show/13445941 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=m%C3%A9tier&oldid=39498828",
+        "https://tatoeba.org/en/sentences/show/3359906",
+        "https://tatoeba.org/en/sentences/show/13445941"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.085Z"
+    }
+  },
+  {
+    "id": "313644783572b85b171a",
+    "lemma": "travail",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "工作",
+      "劳动"
+    ],
+    "ipa": "tʁa.vaj",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "*tripaliare",
+      "breakdown": [],
+      "origin_lang": "古法语；上溯俗拉丁语",
+      "note": "词源段记录由古法语 traveillier 上溯重构形式 *tripaliare 的传统解释；此历史解释不等同于现代词义。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-职业与工作",
+      "members": [
+        {
+          "word": "emploi",
+          "diff_key": "侧重受雇的职位"
+        }
+      ],
+      "contrast_note": "工作也可指劳动任务"
+    },
+    "examples": [
+      {
+        "fr": "Finis ton travail.",
+        "zh": "完成你的工作。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #7414884 · https://tatoeba.org/en/sentences/show/7414884 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Cherche du travail !",
+        "zh": "找一份工作吧！",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #2393675 · https://tatoeba.org/en/sentences/show/2393675 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=travail&oldid=39877669",
+        "https://tatoeba.org/en/sentences/show/7414884",
+        "https://tatoeba.org/en/sentences/show/2393675"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.085Z"
+    }
+  },
+  {
+    "id": "e199a01100def181aea6",
+    "lemma": "logement",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "住房",
+      "住所"
+    ],
+    "ipa": "lɔ.ʒə.mɑ̃",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "loger",
+      "breakdown": [
+        "loger",
+        "-ment"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段引 TLFi 和 Littré，明确为 loger 加名词后缀 -ment。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-住房与居所",
+      "members": [
+        {
+          "word": "habitation",
+          "diff_key": "侧重居住建筑"
+        }
+      ],
+      "contrast_note": "住房强调居住空间"
+    },
+    "examples": [
+      {
+        "fr": "Je cherchais un logement.",
+        "zh": "我当时在找住处。",
+        "source": "tatoeba",
+        "attribution": "qdii · Tatoeba #607575 · https://tatoeba.org/en/sentences/show/607575 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Venez visiter mon logement !",
+        "zh": "来参观我的住处吧！",
+        "source": "tatoeba",
+        "attribution": "Fenrir · Tatoeba #11719418 · https://tatoeba.org/en/sentences/show/11719418 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=logement&oldid=39773572",
+        "https://tatoeba.org/en/sentences/show/607575",
+        "https://tatoeba.org/en/sentences/show/11719418"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.086Z"
+    }
+  },
+  {
+    "id": "fa6d1e69de6232518e5c",
+    "lemma": "transport",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "运输",
+      "交通"
+    ],
+    "ipa": "tʁɑ̃s.pɔʁ",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "transporter",
+      "breakdown": [
+        "transporter"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确为 transporter 的无后缀动词派生名词；不据此另拆 trans- 与 port。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-交通与移动",
+      "members": [
+        {
+          "word": "déplacement",
+          "diff_key": "泛指人员或位置移动"
+        }
+      ],
+      "contrast_note": "运输可涉及人员或货物"
+    },
+    "examples": [
+      {
+        "fr": "Nous utilisons les transports publics.",
+        "zh": "我们使用公共交通。",
+        "source": "tatoeba",
+        "attribution": "lapinhibou · Tatoeba #6467313 · https://tatoeba.org/en/sentences/show/6467313 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Les transports intelligents réduisent les embouteillages.",
+        "zh": "智能交通减少交通堵塞。",
+        "source": "tatoeba",
+        "attribution": "Naityahia · Tatoeba #13960493 · https://tatoeba.org/en/sentences/show/13960493 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=transport&oldid=39920852",
+        "https://tatoeba.org/en/sentences/show/6467313",
+        "https://tatoeba.org/en/sentences/show/13960493"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.086Z"
+    }
+  },
+  {
+    "id": "c6c09c49bf48abb1b151",
+    "lemma": "voyage",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "旅行",
+      "旅程"
+    ],
+    "ipa": "vwa.jaʒ",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "viaticum",
+      "breakdown": [],
+      "origin_lang": "古法语；上溯拉丁语",
+      "note": "词源段记载古法语 voiage 等形式来自拉丁语 viaticum，后者与 via（道路）有关。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-交通与移动",
+      "members": [
+        {
+          "word": "déplacement",
+          "diff_key": "泛指移动或出行"
+        }
+      ],
+      "contrast_note": "旅行通常距离较远"
+    },
+    "examples": [
+      {
+        "fr": "Elle prépare un voyage.",
+        "zh": "她在准备一次旅行。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #10498705 · https://tatoeba.org/en/sentences/show/10498705 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Le voyage est long.",
+        "zh": "这段旅程很长。",
+        "source": "tatoeba",
+        "attribution": "pkill · Tatoeba #10460818 · https://tatoeba.org/en/sentences/show/10460818 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=voyage&oldid=39836391",
+        "https://tatoeba.org/en/sentences/show/10498705",
+        "https://tatoeba.org/en/sentences/show/10460818"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.086Z"
+    }
+  },
+  {
+    "id": "2822a278fa704049e955",
+    "lemma": "besoin",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "需要",
+      "需求"
+    ],
+    "ipa": "bə.zwɛ̃",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "*bisunni",
+      "breakdown": [
+        "*bi-（法兰克语）",
+        "*sunni（法兰克语）"
+      ],
+      "origin_lang": "法兰克语",
+      "note": "词源段上溯重构的法兰克语 *bisunni，分解为加强成分 *bi- 与 *sunni；星号表示重构形式。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-需要与必要",
+      "members": [
+        {
+          "word": "nécessité",
+          "diff_key": "强调不可缺少的必要性"
+        }
+      ],
+      "contrast_note": "常用 avoir besoin de"
+    },
+    "examples": [
+      {
+        "fr": "Nous en avons besoin.",
+        "zh": "我们需要它。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #4777546 · https://tatoeba.org/en/sentences/show/4777546 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Au besoin, téléphone-moi.",
+        "zh": "有需要就给我打电话。",
+        "source": "tatoeba",
+        "attribution": "Rovo · Tatoeba #9777516 · https://tatoeba.org/en/sentences/show/9777516 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=besoin&oldid=39911465",
+        "https://tatoeba.org/en/sentences/show/4777546",
+        "https://tatoeba.org/en/sentences/show/9777516"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.086Z"
+    }
+  },
+  {
+    "id": "eb78f66ca14461080731",
+    "lemma": "projet",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "计划",
+      "项目"
+    ],
+    "ipa": "pʁɔ.ʒɛ",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "projectum",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载拉丁语 projectum 来自 projicere（向前投掷）；未据现代字母拆为法语词缀。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-计划与项目",
+      "members": [
+        {
+          "word": "plan",
+          "diff_key": "侧重步骤与安排"
+        }
+      ],
+      "contrast_note": "项目强调将要实施"
+    },
+    "examples": [
+      {
+        "fr": "Le projet prend forme.",
+        "zh": "这个项目正在成形。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #11226786 · https://tatoeba.org/en/sentences/show/11226786 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Ce projet semble prometteur.",
+        "zh": "这个项目看来很有前景。",
+        "source": "tatoeba",
+        "attribution": "slahatuvelli · Tatoeba #13879948 · https://tatoeba.org/en/sentences/show/13879948 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=projet&oldid=39772734",
+        "https://tatoeba.org/en/sentences/show/11226786",
+        "https://tatoeba.org/en/sentences/show/13879948"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.087Z"
+    }
+  },
+  {
+    "id": "931c57df38af73783f6f",
+    "lemma": "progrès",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "进步",
+      "进展"
+    ],
+    "ipa": "pʁɔ.ɡʁɛ",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "progressus",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段仅记载来自拉丁语 progressus；本样例保留这一层来源，不添加未经该段支持的构词拆解。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-进步与改善",
+      "members": [
+        {
+          "word": "amélioration",
+          "diff_key": "强调变得更好"
+        }
+      ],
+      "contrast_note": "进步强调向前发展"
+    },
+    "examples": [
+      {
+        "fr": "Tu fais des progrès.",
+        "zh": "你在进步。",
+        "source": "tatoeba",
+        "attribution": "Micsmithel · Tatoeba #7204867 · https://tatoeba.org/en/sentences/show/7204867 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Des progrès restent à faire.",
+        "zh": "仍有进步的空间。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #12921512 · https://tatoeba.org/en/sentences/show/12921512 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=progr%C3%A8s&oldid=39664295",
+        "https://tatoeba.org/en/sentences/show/7204867",
+        "https://tatoeba.org/en/sentences/show/12921512"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.087Z"
+    }
+  },
+  {
+    "id": "1876a5a8c7095e1f1077",
+    "lemma": "réunion",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "会议",
+      "聚会"
+    ],
+    "ipa": "ʁe.y.njɔ̃",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "union",
+      "breakdown": [
+        "re-",
+        "union"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段引 TLFi，列出 re- 加 union 或由 réunir 派生两种解释；构词有备选分析。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-会面与会议",
+      "members": [
+        {
+          "word": "rencontre",
+          "diff_key": "侧重相遇或会面"
+        }
+      ],
+      "contrast_note": "会议通常有共同议题"
+    },
+    "examples": [
+      {
+        "fr": "Je suis en réunion.",
+        "zh": "我正在开会。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #11988508 · https://tatoeba.org/en/sentences/show/11988508 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Participez à la réunion.",
+        "zh": "请参加会议。",
+        "source": "tatoeba",
+        "attribution": "Micsmithel · Tatoeba #10134979 · https://tatoeba.org/en/sentences/show/10134979 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=r%C3%A9union&oldid=39771812",
+        "https://tatoeba.org/en/sentences/show/11988508",
+        "https://tatoeba.org/en/sentences/show/10134979"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.087Z"
+    }
+  },
+  {
+    "id": "c34afb831e249693160b",
+    "lemma": "information",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "信息",
+      "消息"
+    ],
+    "ipa": "ɛ̃.fɔʁ.ma.sjɔ̃",
+    "theme": "媒介阅读",
+    "etymology": {
+      "root": "informatio",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 informatio，并提示与 informer、-ation 的联系；后者不作为已确认的历史直接派生。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-信息与消息",
+      "members": [
+        {
+          "word": "renseignement",
+          "diff_key": "多指针对问题的具体资料"
+        }
+      ],
+      "contrast_note": "信息的范围更广"
+    },
+    "examples": [
+      {
+        "fr": "Cette information est confidentielle.",
+        "zh": "这条信息是保密的。",
+        "source": "tatoeba",
+        "attribution": "Aiji · Tatoeba #11384636 · https://tatoeba.org/en/sentences/show/11384636 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "C'est une information utile.",
+        "zh": "这是一条有用的信息。",
+        "source": "tatoeba",
+        "attribution": "Julien_PDC · Tatoeba #8703756 · https://tatoeba.org/en/sentences/show/8703756 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=information&oldid=39914285",
+        "https://tatoeba.org/en/sentences/show/11384636",
+        "https://tatoeba.org/en/sentences/show/8703756"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.087Z"
+    }
+  },
+  {
+    "id": "8c60d9a7683d05e89d2c",
+    "lemma": "conseil",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "建议",
+      "劝告"
+    ],
+    "ipa": "kɔ̃.sɛj",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "consilium",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 consilium；不依据现代法语拼写继续拆解。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-建议与推荐",
+      "members": [
+        {
+          "word": "recommandation",
+          "diff_key": "推荐或建议，较正式"
+        }
+      ],
+      "contrast_note": "建议可针对个人"
+    },
+    "examples": [
+      {
+        "fr": "Suivez mon conseil.",
+        "zh": "请听从我的建议。",
+        "source": "tatoeba",
+        "attribution": "MartinShadock · Tatoeba #2267759 · https://tatoeba.org/en/sentences/show/2267759 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Merci pour votre conseil.",
+        "zh": "感谢您的建议。",
+        "source": "tatoeba",
+        "attribution": "LdjuherTaqvaylit · Tatoeba #13022306 · https://tatoeba.org/en/sentences/show/13022306 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=conseil&oldid=39771194",
+        "https://tatoeba.org/en/sentences/show/2267759",
+        "https://tatoeba.org/en/sentences/show/13022306"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.087Z"
+    }
+  },
+  {
+    "id": "193549deb8a8e5c6ea1e",
+    "lemma": "résultat",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "结果",
+      "成绩"
+    ],
+    "ipa": "ʁe.zyl.ta",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "resultatum",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 resultatum，即 resultare 的过去分词；不把现代 -at 单独认作法语后缀。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-结果与后果",
+      "members": [
+        {
+          "word": "conséquence",
+          "diff_key": "强调原因带来的后果"
+        }
+      ],
+      "contrast_note": "结果可用于测量或考试"
+    },
+    "examples": [
+      {
+        "fr": "Le résultat est excellent !",
+        "zh": "结果非常好！",
+        "source": "tatoeba",
+        "attribution": "Ioan_Cristian · Tatoeba #14019162 · https://tatoeba.org/en/sentences/show/14019162 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "J'attends les résultats.",
+        "zh": "我在等待结果。",
+        "source": "tatoeba",
+        "attribution": "LdjuherTaqvaylit · Tatoeba #12257345 · https://tatoeba.org/en/sentences/show/12257345 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=r%C3%A9sultat&oldid=39819132",
+        "https://tatoeba.org/en/sentences/show/14019162",
+        "https://tatoeba.org/en/sentences/show/12257345"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.088Z"
+    }
+  },
+  {
+    "id": "7b9aaa760c44d9a321ca",
+    "lemma": "cause",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "原因",
+      "事业"
+    ],
+    "ipa": "koz",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "causa",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 causa；没有可由该段确认的现代法语词缀拆解。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-原因与理由",
+      "members": [
+        {
+          "word": "raison",
+          "diff_key": "也可指理由或动机"
+        }
+      ],
+      "contrast_note": "原因强调因果关系"
+    },
+    "examples": [
+      {
+        "fr": "J'en ignore la cause.",
+        "zh": "我不知道其中的原因。",
+        "source": "tatoeba",
+        "attribution": "Aiji · Tatoeba #11702307 · https://tatoeba.org/en/sentences/show/11702307 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Maintenant tu connais la cause.",
+        "zh": "现在你知道原因了。",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #8693028 · https://tatoeba.org/en/sentences/show/8693028 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=cause&oldid=39773926",
+        "https://tatoeba.org/en/sentences/show/11702307",
+        "https://tatoeba.org/en/sentences/show/8693028"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.088Z"
+    }
+  },
+  {
+    "id": "f0be53a55aa6210e2825",
+    "lemma": "conséquence",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "后果",
+      "结果"
+    ],
+    "ipa": "kɔ̃.se.kɑ̃s",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "consequentia",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载借自拉丁语 consequentia（接续），与 consequi（跟随）有关。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-结果与后果",
+      "members": [
+        {
+          "word": "résultat",
+          "diff_key": "泛指活动产生的结果"
+        }
+      ],
+      "contrast_note": "后果强调因果联系"
+    },
+    "examples": [
+      {
+        "fr": "J'assumerai les conséquences.",
+        "zh": "我会承担后果。",
+        "source": "tatoeba",
+        "attribution": "Julien_PDC · Tatoeba #8676654 · https://tatoeba.org/en/sentences/show/8676654 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Les actes ont des conséquences.",
+        "zh": "行为会产生后果。",
+        "source": "tatoeba",
+        "attribution": "anzart · Tatoeba #12675525 · https://tatoeba.org/en/sentences/show/12675525 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=cons%C3%A9quence&oldid=39864979",
+        "https://tatoeba.org/en/sentences/show/8676654",
+        "https://tatoeba.org/en/sentences/show/12675525"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.088Z"
+    }
+  },
+  {
+    "id": "339e3cb4df2d0a1e585a",
+    "lemma": "problème",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "问题",
+      "困难"
+    ],
+    "ipa": "pʁɔ.blɛm",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "problema",
+      "breakdown": [],
+      "origin_lang": "拉丁语；上溯古希腊语",
+      "note": "词源段记载经拉丁语 problema 借入，其来源为古希腊语 πρόβλημα；不按现代法语字母拆词缀。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-问题与困难",
+      "members": [
+        {
+          "word": "difficulté",
+          "diff_key": "侧重难以处理的障碍"
+        }
+      ],
+      "contrast_note": "问题也可指待解题目"
+    },
+    "examples": [
+      {
+        "fr": "Ce problème persiste.",
+        "zh": "这个问题仍然存在。",
+        "source": "tatoeba",
+        "attribution": "ninefi · Tatoeba #13932938 · https://tatoeba.org/en/sentences/show/13932938 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Ce problème est résolu.",
+        "zh": "这个问题解决了。",
+        "source": "tatoeba",
+        "attribution": "carlosalberto · Tatoeba #13764680 · https://tatoeba.org/en/sentences/show/13764680 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=probl%C3%A8me&oldid=39816540",
+        "https://tatoeba.org/en/sentences/show/13932938",
+        "https://tatoeba.org/en/sentences/show/13764680"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.088Z"
+    }
+  },
+  {
+    "id": "465d28271afe86a1c0c1",
+    "lemma": "solution",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "解决办法",
+      "解答"
+    ],
+    "ipa": "so.ly.sjɔ̃",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "solutio",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载 solutio 本指解开、溶解，继而用于解决困难；这是来源义的概括。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-解决与回答",
+      "members": [
+        {
+          "word": "réponse",
+          "diff_key": "回答或答案，未必解决困难"
+        }
+      ],
+      "contrast_note": "解决办法针对困难"
+    },
+    "examples": [
+      {
+        "fr": "Trouvons une solution !",
+        "zh": "我们找个解决办法吧！",
+        "source": "tatoeba",
+        "attribution": "Rovo · Tatoeba #13123961 · https://tatoeba.org/en/sentences/show/13123961 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Voici la meilleure solution.",
+        "zh": "这是最好的解决办法。",
+        "source": "tatoeba",
+        "attribution": "Rovo · Tatoeba #12127759 · https://tatoeba.org/en/sentences/show/12127759 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=solution&oldid=39918360",
+        "https://tatoeba.org/en/sentences/show/13123961",
+        "https://tatoeba.org/en/sentences/show/12127759"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.089Z"
+    }
+  },
+  {
+    "id": "b96aec242d3387741d59",
+    "lemma": "habitude",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "习惯",
+      "惯例"
+    ],
+    "ipa": "a.bi.tyd",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "habitudo",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段引法兰西学院词典，记载来自 habitudo（习惯），并与 habitus 有关。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-习惯与风俗",
+      "members": [
+        {
+          "word": "coutume",
+          "diff_key": "多指群体沿袭的风俗"
+        }
+      ],
+      "contrast_note": "习惯多指个人行为"
+    },
+    "examples": [
+      {
+        "fr": "Faites comme d'habitude.",
+        "zh": "请像往常一样做。",
+        "source": "tatoeba",
+        "attribution": "LdjuherTaqvaylit · Tatoeba #11931525 · https://tatoeba.org/en/sentences/show/11931525 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Développe de bonnes habitudes.",
+        "zh": "养成好习惯。",
+        "source": "tatoeba",
+        "attribution": "Adelpa · Tatoeba #10332006 · https://tatoeba.org/en/sentences/show/10332006 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=habitude&oldid=39719190",
+        "https://tatoeba.org/en/sentences/show/11931525",
+        "https://tatoeba.org/en/sentences/show/10332006"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.089Z"
+    }
+  },
+  {
+    "id": "ec0afdbfd2ee91408d1f",
+    "lemma": "population",
+    "gender": "f",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "人口",
+      "居民群体"
+    ],
+    "ipa": "pɔ.py.la.sjɔ̃",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "populatio",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记录 populatio 的语义由早期人口减少，经中世纪的使人定居，到居民总称；不把古义当作现代释义。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-人口与居民",
+      "members": [
+        {
+          "word": "habitants",
+          "diff_key": "指某地实际居住的人"
+        }
+      ],
+      "contrast_note": "人口指地区整体人群"
+    },
+    "examples": [
+      {
+        "fr": "La population augmente.",
+        "zh": "人口在增加。",
+        "source": "tatoeba",
+        "attribution": "Scott · Tatoeba #845768 · https://tatoeba.org/en/sentences/show/845768 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "La population de cette ville augmente.",
+        "zh": "这座城市的人口在增加。",
+        "source": "tatoeba",
+        "attribution": "Nucleos · Tatoeba #748305 · https://tatoeba.org/en/sentences/show/748305 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=population&oldid=39903390",
+        "https://tatoeba.org/en/sentences/show/845768",
+        "https://tatoeba.org/en/sentences/show/748305"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.089Z"
+    }
+  },
+  {
+    "id": "ec1a2c3274922167ff86",
+    "lemma": "avenir",
+    "gender": "m",
+    "pos": "noun",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "未来",
+      "前途"
+    ],
+    "ipa": "a.və.niʁ",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "venir",
+      "breakdown": [
+        "à",
+        "venir"
+      ],
+      "origin_lang": "法语",
+      "note": "此处选名词义。词源段引 TLFi，给出 à 加 venir（隐含时间）或由旧动词 avenir 派生；保留备选分析。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-未来与前途",
+      "members": [
+        {
+          "word": "futur",
+          "diff_key": "泛指未来或将来时"
+        }
+      ],
+      "contrast_note": "前途常含发展期待"
+    },
+    "examples": [
+      {
+        "fr": "L'avenir sera meilleur.",
+        "zh": "未来会更好。",
+        "source": "tatoeba",
+        "attribution": "Mahli · Tatoeba #12561647 · https://tatoeba.org/en/sentences/show/12561647 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Notre avenir est prometteur !",
+        "zh": "我们的未来很有前景！",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #8093348 · https://tatoeba.org/en/sentences/show/8093348 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=avenir&oldid=39812530",
+        "https://tatoeba.org/en/sentences/show/12561647",
+        "https://tatoeba.org/en/sentences/show/8093348"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.089Z"
+    }
+  },
+  {
+    "id": "9c839eaa135ac6476162",
+    "lemma": "apprendre",
+    "pos": "verb",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "学习",
+      "学会",
+      "获悉"
+    ],
+    "ipa": "a.pʁɑ̃dʁ",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "apprehendere",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 apprehendere（抓住、取得）；本样例不额外拆现代 ap- 与 prendre。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-学习与研究",
+      "members": [
+        {
+          "word": "étudier",
+          "diff_key": "侧重有计划地研习"
+        }
+      ],
+      "contrast_note": "学习强调获取新知识"
+    },
+    "examples": [
+      {
+        "fr": "Continuez à apprendre !",
+        "zh": "请继续学习！",
+        "source": "tatoeba",
+        "attribution": "carlosalberto · Tatoeba #13804384 · https://tatoeba.org/en/sentences/show/13804384 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Elles veulent apprendre.",
+        "zh": "她们想学习。",
+        "source": "tatoeba",
+        "attribution": "Igider · Tatoeba #13417401 · https://tatoeba.org/en/sentences/show/13417401 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=apprendre&oldid=39773016",
+        "https://tatoeba.org/en/sentences/show/13804384",
+        "https://tatoeba.org/en/sentences/show/13417401"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.090Z"
+    }
+  },
+  {
+    "id": "a726c2d2c7ff2bff7c54",
+    "lemma": "comprendre",
+    "pos": "verb",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "理解",
+      "明白"
+    ],
+    "ipa": "kɔ̃.pʁɑ̃dʁ",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "comprehendere",
+      "breakdown": [
+        "cum-（拉丁语）",
+        "prehendere（拉丁语）"
+      ],
+      "origin_lang": "拉丁语",
+      "note": "词源段明确拉丁语 comprehendere 由 cum-（一起）与 prehendere（抓住）构成；这是拉丁语层面的拆解。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-理解与领会",
+      "members": [
+        {
+          "word": "saisir",
+          "diff_key": "领会要点，也指抓住"
+        }
+      ],
+      "contrast_note": "理解可指意义或原因"
+    },
+    "examples": [
+      {
+        "fr": "Tu veux comprendre.",
+        "zh": "你想弄明白。",
+        "source": "tatoeba",
+        "attribution": "slahatuvelli · Tatoeba #13669295 · https://tatoeba.org/en/sentences/show/13669295 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Tu sembles comprendre.",
+        "zh": "你似乎明白了。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #13517302 · https://tatoeba.org/en/sentences/show/13517302 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=comprendre&oldid=39630355",
+        "https://tatoeba.org/en/sentences/show/13669295",
+        "https://tatoeba.org/en/sentences/show/13517302"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.090Z"
+    }
+  },
+  {
+    "id": "7a4f8faae4779cc962df",
+    "lemma": "attendre",
+    "pos": "verb",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "等待",
+      "期待"
+    ],
+    "ipa": "a.tɑ̃dʁ",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "attendere",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 attendere（注意），并列出古法语 atendre；不据此与 entendre 混为同一来源。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-等待与耐心",
+      "members": [
+        {
+          "word": "patienter",
+          "diff_key": "耐心等待，通常不及物"
+        }
+      ],
+      "contrast_note": "等待可直接接宾语"
+    },
+    "examples": [
+      {
+        "fr": "Je préfère attendre.",
+        "zh": "我宁愿等一等。",
+        "source": "tatoeba",
+        "attribution": "Rafik · Tatoeba #13697817 · https://tatoeba.org/en/sentences/show/13697817 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Nous devons attendre.",
+        "zh": "我们必须等待。",
+        "source": "tatoeba",
+        "attribution": "Aiji · Tatoeba #11571863 · https://tatoeba.org/en/sentences/show/11571863 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "易混词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=attendre&oldid=39827374",
+        "https://tatoeba.org/en/sentences/show/13697817",
+        "https://tatoeba.org/en/sentences/show/11571863"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.090Z"
+    }
+  },
+  {
+    "id": "85536d73f7671eedcd44",
+    "lemma": "entendre",
+    "pos": "verb",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "听见",
+      "听说"
+    ],
+    "ipa": "ɑ̃.tɑ̃dʁ",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "intendere",
+      "breakdown": [],
+      "origin_lang": "中古法语／古法语；上溯拉丁语",
+      "note": "词源段记载经古法语 entendre 上溯拉丁语 intendere；中世纪拉丁语出现注意、理解、听等义。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-听见与聆听",
+      "members": [
+        {
+          "word": "écouter",
+          "diff_key": "强调主动聆听"
+        }
+      ],
+      "contrast_note": "听见侧重听觉结果"
+    },
+    "examples": [
+      {
+        "fr": "Je peux vous entendre.",
+        "zh": "我能听见您说话。",
+        "source": "tatoeba",
+        "attribution": "Aiji · Tatoeba #5375582 · https://tatoeba.org/en/sentences/show/5375582 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Je veux entendre ça.",
+        "zh": "我想听听那个。",
+        "source": "tatoeba",
+        "attribution": "PERCE_NEIGE · Tatoeba #6000402 · https://tatoeba.org/en/sentences/show/6000402 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "易混词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=entendre&oldid=39794164",
+        "https://tatoeba.org/en/sentences/show/5375582",
+        "https://tatoeba.org/en/sentences/show/6000402"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.090Z"
+    }
+  },
+  {
+    "id": "63e77d73027422cfebe0",
+    "lemma": "apporter",
+    "pos": "verb",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "带来",
+      "提供"
+    ],
+    "ipa": "a.pɔʁ.te",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "apportare",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 apportare（把某物带给某人）；未在该段确认更深构件。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-带来与带走",
+      "members": [
+        {
+          "word": "amener",
+          "diff_key": "多指把人带到某处"
+        }
+      ],
+      "contrast_note": "带来物品常用 apporter"
+    },
+    "examples": [
+      {
+        "fr": "Je vais apporter le fromage.",
+        "zh": "我会把奶酪带来。",
+        "source": "tatoeba",
+        "attribution": "LdjuherTaqvaylit · Tatoeba #13465070 · https://tatoeba.org/en/sentences/show/13465070 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Je vais lui apporter mon aide.",
+        "zh": "我会帮助他。",
+        "source": "tatoeba",
+        "attribution": "Julien_PDC · Tatoeba #8635967 · https://tatoeba.org/en/sentences/show/8635967 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "易混词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=apporter&oldid=39848726",
+        "https://tatoeba.org/en/sentences/show/13465070",
+        "https://tatoeba.org/en/sentences/show/8635967"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.090Z"
+    }
+  },
+  {
+    "id": "68142c7ee66126348e93",
+    "lemma": "emporter",
+    "pos": "verb",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "带走",
+      "携带离开"
+    ],
+    "ipa": "ɑ̃.pɔʁ.te",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "porter",
+      "breakdown": [
+        "en-",
+        "porter"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确 en- 与 porter 的组合；现代拼写中 n 在 p 前写作 m。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-带来与带走",
+      "members": [
+        {
+          "word": "emmener",
+          "diff_key": "多指把人带离某处"
+        }
+      ],
+      "contrast_note": "带走物品常用 emporter"
+    },
+    "examples": [
+      {
+        "fr": "Mieux vaudrait emporter un parapluie.",
+        "zh": "最好带上一把伞。",
+        "source": "tatoeba",
+        "attribution": "Whidou · Tatoeba #4837102 · https://tatoeba.org/en/sentences/show/4837102 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Ce restaurant propose des plats à emporter.",
+        "zh": "这家餐厅提供可打包带走的菜肴。",
+        "source": "tatoeba",
+        "attribution": "Blabla · Tatoeba #8687381 · https://tatoeba.org/en/sentences/show/8687381 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "易混词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=emporter&oldid=39800293",
+        "https://tatoeba.org/en/sentences/show/4837102",
+        "https://tatoeba.org/en/sentences/show/8687381"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.091Z"
+    }
+  },
+  {
+    "id": "ce3c709c6f2f6cdfd06a",
+    "lemma": "accepter",
+    "pos": "verb",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "接受",
+      "同意"
+    ],
+    "ipa": "ak.sɛp.te",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "acceptare",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 acceptare；不把现代末尾 -er 当作历史来源的充分说明。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-接受与同意",
+      "members": [
+        {
+          "word": "consentir",
+          "diff_key": "同意，常接 à 加原形"
+        }
+      ],
+      "contrast_note": "接受可直接接名词"
+    },
+    "examples": [
+      {
+        "fr": "Je vais accepter ton offre.",
+        "zh": "我会接受你的提议。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #536401 · https://tatoeba.org/en/sentences/show/536401 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Veuillez accepter mes excuses.",
+        "zh": "请接受我的道歉。",
+        "source": "tatoeba",
+        "attribution": "Micsmithel · Tatoeba #9989776 · https://tatoeba.org/en/sentences/show/9989776 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=accepter&oldid=39810276",
+        "https://tatoeba.org/en/sentences/show/536401",
+        "https://tatoeba.org/en/sentences/show/9989776"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.091Z"
+    }
+  },
+  {
+    "id": "9d5aca72d59d4779ff54",
+    "lemma": "refuser",
+    "pos": "verb",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "拒绝",
+      "不接受"
+    ],
+    "ipa": "ʁə.fy.ze",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "refuser（古法语）",
+      "breakdown": [],
+      "origin_lang": "古法语",
+      "note": "词源段只指向古法语同形词 refuser；更早来源未在本次证据中核实，因此不继续拆解。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-拒绝与否决",
+      "members": [
+        {
+          "word": "rejeter",
+          "diff_key": "排斥或否决，语气较强"
+        }
+      ],
+      "contrast_note": "拒绝常接 de 加原形"
+    },
+    "examples": [
+      {
+        "fr": "Tu peux refuser.",
+        "zh": "你可以拒绝。",
+        "source": "tatoeba",
+        "attribution": "Micsmithel · Tatoeba #10166459 · https://tatoeba.org/en/sentences/show/10166459 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Je dois refuser.",
+        "zh": "我必须拒绝。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #2482600 · https://tatoeba.org/en/sentences/show/2482600 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=refuser&oldid=39771964",
+        "https://tatoeba.org/en/sentences/show/10166459",
+        "https://tatoeba.org/en/sentences/show/2482600"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.091Z"
+    }
+  },
+  {
+    "id": "91dc7e2fe23f306653e9",
+    "lemma": "proposer",
+    "pos": "verb",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "提议",
+      "提出"
+    ],
+    "ipa": "pʁɔ.po.ze",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "proponere",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 proponere（放在前面）；不声称现代词是直接由 pro- 与 poser 合成。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-提议与建议",
+      "members": [
+        {
+          "word": "suggérer",
+          "diff_key": "暗示或建议，语气较委婉"
+        }
+      ],
+      "contrast_note": "提议常含具体行动"
+    },
+    "examples": [
+      {
+        "fr": "Il faut proposer des solutions réalisables.",
+        "zh": "必须提出可行的解决办法。",
+        "source": "tatoeba",
+        "attribution": "Julien_PDC · Tatoeba #8641320 · https://tatoeba.org/en/sentences/show/8641320 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Pourriez-vous proposer une autre date ?",
+        "zh": "您能另提一个日期吗？",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #10892128 · https://tatoeba.org/en/sentences/show/10892128 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=proposer&oldid=39773374",
+        "https://tatoeba.org/en/sentences/show/8641320",
+        "https://tatoeba.org/en/sentences/show/10892128"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.091Z"
+    }
+  },
+  {
+    "id": "e74aa5fdb8e529b3efa2",
+    "lemma": "réussir",
+    "pos": "verb",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "成功",
+      "顺利完成"
+    ],
+    "ipa": "ʁe.y.siʁ",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "riuscire",
+      "breakdown": [],
+      "origin_lang": "意大利语",
+      "note": "词源段引 TLFi，记载借自意大利语 riuscire（达到目的、成功）；不将 ré- 当作本词法语派生的证据。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-成功与达到",
+      "members": [
+        {
+          "word": "parvenir",
+          "diff_key": "达到，常接 à 加动词"
+        }
+      ],
+      "contrast_note": "réussir à 加动词原形"
+    },
+    "examples": [
+      {
+        "fr": "Nous allons réussir.",
+        "zh": "我们会成功的。",
+        "source": "tatoeba",
+        "attribution": "LdjuherTaqvaylit · Tatoeba #13305408 · https://tatoeba.org/en/sentences/show/13305408 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Je souhaite réussir.",
+        "zh": "我希望成功。",
+        "source": "tatoeba",
+        "attribution": "nimfeo · Tatoeba #2841240 · https://tatoeba.org/en/sentences/show/2841240 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=r%C3%A9ussir&oldid=39771725",
+        "https://tatoeba.org/en/sentences/show/13305408",
+        "https://tatoeba.org/en/sentences/show/2841240"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.091Z"
+    }
+  },
+  {
+    "id": "3bbc477a76fbc0040e6e",
+    "lemma": "se souvenir",
+    "pos": "verb",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "记得",
+      "回想起"
+    ],
+    "ipa": "sə suv.niʁ",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "souvenir",
+      "breakdown": [
+        "se",
+        "souvenir"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确 se 与 souvenir 的组合。此拆解说明代词式结构，不宣称已经追溯 souvenir 的更早历史来源。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-记忆与回想",
+      "members": [
+        {
+          "word": "se rappeler",
+          "diff_key": "直接接回忆的对象"
+        }
+      ],
+      "contrast_note": "se souvenir de 加对象"
+    },
+    "examples": [
+      {
+        "fr": "L'enfant peut se souvenir.",
+        "zh": "这个孩子能够记起来。",
+        "source": "tatoeba",
+        "attribution": "slahatuvelli · Tatoeba #13495364 · https://tatoeba.org/en/sentences/show/13495364 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Il aurait dû se souvenir d'elles.",
+        "zh": "他本该记得她们。",
+        "source": "tatoeba",
+        "attribution": "slahatuvelli · Tatoeba #13767607 · https://tatoeba.org/en/sentences/show/13767607 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "代词式动词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=se%20souvenir&oldid=39909362",
+        "https://tatoeba.org/en/sentences/show/13495364",
+        "https://tatoeba.org/en/sentences/show/13767607"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.092Z"
+    }
+  },
+  {
+    "id": "90f40b659345e2879c69",
+    "lemma": "se rendre compte",
+    "pos": "verb",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "意识到",
+      "察觉"
+    ],
+    "ipa": "sə ʁɑ̃.dʁə kɔ̃t",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "compte",
+      "breakdown": [
+        "se rendre",
+        "compte"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确 se rendre 与 compte 构成固定表达；这是短语结构说明。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-意识与发现",
+      "members": [
+        {
+          "word": "réaliser",
+          "diff_key": "意识到，也有实现之义"
+        }
+      ],
+      "contrast_note": "常接 de 或 que 从句"
+    },
+    "examples": [
+      {
+        "fr": "Pierre pouvait se rendre compte qu'elle s'ennuyait.",
+        "zh": "皮埃尔能察觉到她感到无聊。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #911879 · https://tatoeba.org/en/sentences/show/911879 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Tout un chacun peut se rendre compte que votre intérêt est réel.",
+        "zh": "每个人都能看出您的兴趣是真实的。",
+        "source": "tatoeba",
+        "attribution": "Rovo · Tatoeba #3325918 · https://tatoeba.org/en/sentences/show/3325918 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "代词式动词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=se%20rendre%20compte&oldid=39284951",
+        "https://tatoeba.org/en/sentences/show/911879",
+        "https://tatoeba.org/en/sentences/show/3325918"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.092Z"
+    }
+  },
+  {
+    "id": "fd93204d4e898ac9b5e9",
+    "lemma": "s'occuper",
+    "pos": "verb",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "照顾",
+      "处理",
+      "忙于"
+    ],
+    "ipa": "sɔ.ky.pe",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "occupare",
+      "breakdown": [
+        "s’（se）",
+        "occuper"
+      ],
+      "origin_lang": "法语；基本动词上溯拉丁语",
+      "note": "原请求重定向至 occuper；现代代词式为省音的 se 加 occuper。基词词源段记载拉丁语 occupare；整词 IPA 由基词音标加 s’ 整理。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-照顾与负责",
+      "members": [
+        {
+          "word": "prendre soin",
+          "diff_key": "细心照料，常接 de"
+        }
+      ],
+      "contrast_note": "s'occuper de 加对象"
+    },
+    "examples": [
+      {
+        "fr": "Il faut s’occuper du jardin.",
+        "zh": "得照料花园。",
+        "source": "tatoeba",
+        "attribution": "madjidoumnia · Tatoeba #10505369 · https://tatoeba.org/en/sentences/show/10505369 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Laissez-le s'occuper de tout.",
+        "zh": "让他来处理一切吧。",
+        "source": "tatoeba",
+        "attribution": "madjidoumnia · Tatoeba #13582633 · https://tatoeba.org/en/sentences/show/13582633 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "代词式动词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=occuper&oldid=39914536",
+        "https://tatoeba.org/en/sentences/show/10505369",
+        "https://tatoeba.org/en/sentences/show/13582633"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.093Z"
+    }
+  },
+  {
+    "id": "6ff040992fb7c9c6f5c8",
+    "lemma": "se dépêcher",
+    "pos": "verb",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "赶快",
+      "抓紧时间"
+    ],
+    "ipa": "sə de.pe.ʃe",
+    "theme": "日常生活",
+    "etymology": {
+      "breakdown": [],
+      "note": "词条词源段标记为待补充；尚未核实历史来源，暂不提供词根或构词拆解。",
+      "confidence": "low"
+    },
+    "synonyms": {
+      "group_id": "sample-赶快与匆忙",
+      "members": [
+        {
+          "word": "se hâter",
+          "diff_key": "加快行动，较书面"
+        }
+      ],
+      "contrast_note": "赶快，常用于催促"
+    },
+    "examples": [
+      {
+        "fr": "Il faut se dépêcher.",
+        "zh": "得赶快了。",
+        "source": "tatoeba",
+        "attribution": "Scorpionvenin14 · Tatoeba #5403261 · https://tatoeba.org/en/sentences/show/5403261 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "On ferait mieux de se dépêcher.",
+        "zh": "我们最好抓紧时间。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #13413706 · https://tatoeba.org/en/sentences/show/13413706 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "代词式动词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=se%20d%C3%A9p%C3%AAcher&oldid=39902900",
+        "https://tatoeba.org/en/sentences/show/5403261",
+        "https://tatoeba.org/en/sentences/show/13413706"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.093Z"
+    }
+  },
+  {
+    "id": "45dba78769baabd37877",
+    "lemma": "se promener",
+    "pos": "verb",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "散步",
+      "闲逛"
+    ],
+    "ipa": "sə pʁɔ.mə.ne",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "promener",
+      "breakdown": [
+        "se",
+        "promener"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确 se 与 promener 的组合。此拆解说明代词式结构，不宣称已经追溯 promener 的更早历史来源。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-散步与步行",
+      "members": [
+        {
+          "word": "marcher",
+          "diff_key": "步行，可有明确目的"
+        }
+      ],
+      "contrast_note": "散步强调休闲目的"
+    },
+    "examples": [
+      {
+        "fr": "Se promener est agréable.",
+        "zh": "散步很愉快。",
+        "source": "tatoeba",
+        "attribution": "GeeZ · Tatoeba #1638247 · https://tatoeba.org/en/sentences/show/1638247 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Il est sorti se promener.",
+        "zh": "他出去散步了。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #13060517 · https://tatoeba.org/en/sentences/show/13060517 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "代词式动词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=se%20promener&oldid=39773640",
+        "https://tatoeba.org/en/sentences/show/1638247",
+        "https://tatoeba.org/en/sentences/show/13060517"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.093Z"
+    }
+  },
+  {
+    "id": "752d1f8fe30b6c713aa2",
+    "lemma": "s'inquiéter",
+    "pos": "verb",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "担忧",
+      "不安"
+    ],
+    "ipa": "sɛ̃.kje.te",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "inquietare",
+      "breakdown": [
+        "s’（se）",
+        "inquiéter"
+      ],
+      "origin_lang": "法语；基本动词上溯拉丁语",
+      "note": "原请求重定向至 inquiéter，词条列有代词式义项。现代形式为省音的 se 加 inquiéter；基词来自拉丁语 inquietare。整词 IPA 由基词音标加 s’ 整理。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-担忧与忧虑",
+      "members": [
+        {
+          "word": "se faire du souci",
+          "diff_key": "为人或事发愁，较口语"
+        }
+      ],
+      "contrast_note": "常接 de 或 pour"
+    },
+    "examples": [
+      {
+        "fr": "Il ne faut pas s'inquiéter.",
+        "zh": "不用担心。",
+        "source": "tatoeba",
+        "attribution": "menaud · Tatoeba #13329235 · https://tatoeba.org/en/sentences/show/13329235 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Elle doit s'inquiéter pour lui.",
+        "zh": "她一定在为他担心。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #11778877 · https://tatoeba.org/en/sentences/show/11778877 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "代词式动词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=inqui%C3%A9ter&oldid=39007348",
+        "https://tatoeba.org/en/sentences/show/13329235",
+        "https://tatoeba.org/en/sentences/show/11778877"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.093Z"
+    }
+  },
+  {
+    "id": "cdb7e955a734bb024207",
+    "lemma": "actuel",
+    "pos": "adj",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "当前的",
+      "现今的"
+    ],
+    "ipa": "ak.tɥɛl",
+    "theme": "媒介阅读",
+    "etymology": {
+      "root": "actualis",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 actualis；未据该段补出更深词根或将 -el 当作直接法语派生。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-当前与可能",
+      "members": [
+        {
+          "word": "présent",
+          "diff_key": "当前的，也可指在场"
+        }
+      ],
+      "contrast_note": "actuel 表示当前"
+    },
+    "examples": [
+      {
+        "fr": "Je vais quitter mon emploi actuel.",
+        "zh": "我将离开现在的工作岗位。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #479636 · https://tatoeba.org/en/sentences/show/479636 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Elle est satisfaite de son salaire actuel.",
+        "zh": "她对目前的工资很满意。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #12636968 · https://tatoeba.org/en/sentences/show/12636968 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "易混词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=actuel&oldid=39771164",
+        "https://tatoeba.org/en/sentences/show/479636",
+        "https://tatoeba.org/en/sentences/show/12636968"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.094Z"
+    }
+  },
+  {
+    "id": "428a865469219321769a",
+    "lemma": "éventuel",
+    "pos": "adj",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "可能发生的",
+      "或有的"
+    ],
+    "ipa": "e.vɑ̃.tɥɛl",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "eventus",
+      "breakdown": [
+        "eventus（拉丁语）",
+        "-el"
+      ],
+      "origin_lang": "拉丁语／法语",
+      "note": "词源段明确拉丁语 eventus（事件、发生之事）加后缀 -el；词源义不等同于现代意思可能的。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-当前与可能",
+      "members": [
+        {
+          "word": "possible",
+          "diff_key": "既可指可能，也可指可行"
+        }
+      ],
+      "contrast_note": "éventuel 表示可能"
+    },
+    "examples": [
+      {
+        "fr": "Corrigez les erreurs éventuelles.",
+        "zh": "请改正可能存在的错误。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #497326 · https://tatoeba.org/en/sentences/show/497326 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Le monde doit se préparer à une éventuelle pandémie.",
+        "zh": "世界必须为可能发生的大流行做好准备。",
+        "source": "tatoeba",
+        "attribution": "Julien_PDC · Tatoeba #8582804 · https://tatoeba.org/en/sentences/show/8582804 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "易混词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=%C3%A9ventuel&oldid=39771575",
+        "https://tatoeba.org/en/sentences/show/497326",
+        "https://tatoeba.org/en/sentences/show/8582804"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.094Z"
+    }
+  },
+  {
+    "id": "1b809523fef1c6f5edc0",
+    "lemma": "sensible",
+    "pos": "adj",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "敏感的",
+      "易感动的"
+    ],
+    "ipa": "sɑ̃.sibl",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "sensibilis",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载 sensibilis 本指可感知的，晚期拉丁语也指有感受能力；不混同现代英语 sensible 的常用义。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-敏感与友善",
+      "members": [
+        {
+          "word": "réceptif",
+          "diff_key": "乐于接受意见或信息"
+        }
+      ],
+      "contrast_note": "对刺激或情感敏感"
+    },
+    "examples": [
+      {
+        "fr": "J'ai la peau sensible.",
+        "zh": "我的皮肤很敏感。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #5565871 · https://tatoeba.org/en/sentences/show/5565871 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Il est sensible aux critiques.",
+        "zh": "他对批评很敏感。",
+        "source": "tatoeba",
+        "attribution": "Scott · Tatoeba #683951 · https://tatoeba.org/en/sentences/show/683951 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "易混词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=sensible&oldid=39776250",
+        "https://tatoeba.org/en/sentences/show/5565871",
+        "https://tatoeba.org/en/sentences/show/683951"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.094Z"
+    }
+  },
+  {
+    "id": "82d513a1fac2300741bf",
+    "lemma": "sympathique",
+    "pos": "adj",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "友善的",
+      "令人喜欢的"
+    ],
+    "ipa": "sɛ̃.pa.tik",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "sympathie",
+      "breakdown": [
+        "sympathie",
+        "-ique"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段引 TLFi，明确由 sympathie 加 -ique 构成；现代描述人的常用义为友善、讨人喜欢。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-敏感与友善",
+      "members": [
+        {
+          "word": "agréable",
+          "diff_key": "令人舒适或愉快，可形容物"
+        }
+      ],
+      "contrast_note": "指人亲切，非表示同情"
+    },
+    "examples": [
+      {
+        "fr": "Cette infirmière est sympathique.",
+        "zh": "这位护士很友善。",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #13487926 · https://tatoeba.org/en/sentences/show/13487926 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Quelle famille sympathique !",
+        "zh": "多么令人喜欢的一家人啊！",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #5424248 · https://tatoeba.org/en/sentences/show/5424248 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测",
+      "易混词"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=sympathique&oldid=39819266",
+        "https://tatoeba.org/en/sentences/show/13487926",
+        "https://tatoeba.org/en/sentences/show/5424248"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.095Z"
+    }
+  },
+  {
+    "id": "052340487a3fda86aeb6",
+    "lemma": "possible",
+    "pos": "adj",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "可能的",
+      "可行的"
+    ],
+    "ipa": "pɔ.sibl",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "possibilis",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 possibilis；不根据词尾相似性推测为现代法语词缀派生。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-可能与可行",
+      "members": [
+        {
+          "word": "faisable",
+          "diff_key": "强调事情能够实行"
+        }
+      ],
+      "contrast_note": "可行也能指可能发生"
+    },
+    "examples": [
+      {
+        "fr": "C'est possible !",
+        "zh": "这有可能！",
+        "source": "tatoeba",
+        "attribution": "Rovo · Tatoeba #12074024 · https://tatoeba.org/en/sentences/show/12074024 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Tout est possible.",
+        "zh": "一切皆有可能。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #1310978 · https://tatoeba.org/en/sentences/show/1310978 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=possible&oldid=39838102",
+        "https://tatoeba.org/en/sentences/show/12074024",
+        "https://tatoeba.org/en/sentences/show/1310978"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.095Z"
+    }
+  },
+  {
+    "id": "710debd2f6754417563f",
+    "lemma": "impossible",
+    "pos": "adj",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "不可能的",
+      "无法做到的"
+    ],
+    "ipa": "ɛ̃.pɔ.sibl",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "impossibilis",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 impossibilis；现代可联系否定前缀记忆，但该段没有给出法语直接派生史。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-不可能与难以实现",
+      "members": [
+        {
+          "word": "irréalisable",
+          "diff_key": "强调计划无法实现"
+        }
+      ],
+      "contrast_note": "不可能或无法实现"
+    },
+    "examples": [
+      {
+        "fr": "Cela semble impossible.",
+        "zh": "这似乎不可能。",
+        "source": "tatoeba",
+        "attribution": "Micsmithel · Tatoeba #7547453 · https://tatoeba.org/en/sentences/show/7547453 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "C'est impossible !",
+        "zh": "这不可能！",
+        "source": "tatoeba",
+        "attribution": "Fenrir · Tatoeba #11726299 · https://tatoeba.org/en/sentences/show/11726299 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=impossible&oldid=39907787",
+        "https://tatoeba.org/en/sentences/show/7547453",
+        "https://tatoeba.org/en/sentences/show/11726299"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.095Z"
+    }
+  },
+  {
+    "id": "1881f4fd8b30ec75a63f",
+    "lemma": "disponible",
+    "pos": "adj",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "可用的",
+      "有空的"
+    ],
+    "ipa": "dis.pɔ.nibl",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "disponibilis",
+      "breakdown": [],
+      "origin_lang": "拉丁语（待核实）",
+      "note": "词源段提出拉丁语 disponibilis 来源，但明确标有 refnec（需要引证）；此说暂列低置信，不补充构件。",
+      "confidence": "low"
+    },
+    "synonyms": {
+      "group_id": "sample-有空与可用",
+      "members": [
+        {
+          "word": "libre",
+          "diff_key": "空闲的，也指自由的"
+        }
+      ],
+      "contrast_note": "可用，或人有空"
+    },
+    "examples": [
+      {
+        "fr": "Elle était disponible.",
+        "zh": "她当时有空。",
+        "source": "tatoeba",
+        "attribution": "LdjuherTaqvaylit · Tatoeba #11988856 · https://tatoeba.org/en/sentences/show/11988856 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Cette table est disponible.",
+        "zh": "这张桌子可以使用。",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #9239543 · https://tatoeba.org/en/sentences/show/9239543 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=disponible&oldid=39771644",
+        "https://tatoeba.org/en/sentences/show/11988856",
+        "https://tatoeba.org/en/sentences/show/9239543"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.095Z"
+    }
+  },
+  {
+    "id": "0b8d40fc1e0e249ee99c",
+    "lemma": "responsable",
+    "pos": "adj",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "负责的",
+      "负有责任的"
+    ],
+    "ipa": "ʁɛs.pɔ̃.sabl",
+    "theme": "人物描摹",
+    "etymology": {
+      "root": "responsus",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载拉丁语 responsus 来源，但未提供更细构词与引证；保留词条这一层解释。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-负责与可靠",
+      "members": [
+        {
+          "word": "fiable",
+          "diff_key": "可靠，值得信赖"
+        }
+      ],
+      "contrast_note": "负责并不等于可靠"
+    },
+    "examples": [
+      {
+        "fr": "Il est responsable.",
+        "zh": "他是个负责任的人。",
+        "source": "tatoeba",
+        "attribution": "Orange · Tatoeba #12448767 · https://tatoeba.org/en/sentences/show/12448767 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Il en était responsable.",
+        "zh": "他当时对此负责。",
+        "source": "tatoeba",
+        "attribution": "Micsmithel · Tatoeba #10098611 · https://tatoeba.org/en/sentences/show/10098611 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=responsable&oldid=39906564",
+        "https://tatoeba.org/en/sentences/show/12448767",
+        "https://tatoeba.org/en/sentences/show/10098611"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.095Z"
+    }
+  },
+  {
+    "id": "e7aa01b0aed2750a0427",
+    "lemma": "nécessaire",
+    "pos": "adj",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "必要的",
+      "不可少的"
+    ],
+    "ipa": "ne.se.sɛʁ",
+    "theme": "事件社会",
+    "etymology": {
+      "root": "necessarius",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段引 TLFi 和 Littré，记载来自拉丁语 necessarius，后者与 necesse 有关。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-必要与有用",
+      "members": [
+        {
+          "word": "indispensable",
+          "diff_key": "必不可少，程度更强"
+        }
+      ],
+      "contrast_note": "必要程度通常较弱"
+    },
+    "examples": [
+      {
+        "fr": "Dormir est nécessaire.",
+        "zh": "睡眠是必要的。",
+        "source": "tatoeba",
+        "attribution": "hustledynamo · Tatoeba #12242863 · https://tatoeba.org/en/sentences/show/12242863 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Ma présence est nécessaire.",
+        "zh": "我必须在场。",
+        "source": "tatoeba",
+        "attribution": "Paulin2603 · Tatoeba #11433546 · https://tatoeba.org/en/sentences/show/11433546 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=n%C3%A9cessaire&oldid=39880523",
+        "https://tatoeba.org/en/sentences/show/12242863",
+        "https://tatoeba.org/en/sentences/show/11433546"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.095Z"
+    }
+  },
+  {
+    "id": "fa5b8bceec2b25f07d14",
+    "lemma": "utile",
+    "pos": "adj",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "有用的",
+      "有益的"
+    ],
+    "ipa": "y.til",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "utilis",
+      "breakdown": [],
+      "origin_lang": "拉丁语",
+      "note": "词源段记载来自拉丁语 utilis，与 uti（使用、享用）有关；不添加现代法语字母拆解。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-必要与有用",
+      "members": [
+        {
+          "word": "nécessaire",
+          "diff_key": "必要，缺少则难以完成"
+        }
+      ],
+      "contrast_note": "有用不一定是必要"
+    },
+    "examples": [
+      {
+        "fr": "Ce site est utile.",
+        "zh": "这个网站很有用。",
+        "source": "tatoeba",
+        "attribution": "lbdx · Tatoeba #11041951 · https://tatoeba.org/en/sentences/show/11041951 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Cela peut être utile.",
+        "zh": "这可能会有用。",
+        "source": "tatoeba",
+        "attribution": "Rovo · Tatoeba #12617477 · https://tatoeba.org/en/sentences/show/12617477 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=utile&oldid=39774505",
+        "https://tatoeba.org/en/sentences/show/11041951",
+        "https://tatoeba.org/en/sentences/show/12617477"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.096Z"
+    }
+  },
+  {
+    "id": "219124633dc22c8acaef",
+    "lemma": "cependant",
+    "pos": "adv",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "然而",
+      "不过"
+    ],
+    "ipa": "sə.pɑ̃.dɑ̃",
+    "theme": "媒介阅读",
+    "etymology": {
+      "root": "pendant",
+      "breakdown": [
+        "ce",
+        "pendant"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确 ce 与 pendant 的组合；作为现代连词副词已固定，不以逐字义代替转折用法。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-转折与让步",
+      "members": [
+        {
+          "word": "pourtant",
+          "diff_key": "转折常含出乎意料"
+        }
+      ],
+      "contrast_note": "转折语气较中性"
+    },
+    "examples": [
+      {
+        "fr": "Cependant, il existe une solution.",
+        "zh": "然而，存在一个解决办法。",
+        "source": "tatoeba",
+        "attribution": "Aiji · Tatoeba #11033550 · https://tatoeba.org/en/sentences/show/11033550 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Cependant, je pourrais me tromper.",
+        "zh": "不过，我也可能弄错。",
+        "source": "tatoeba",
+        "attribution": "Aiji · Tatoeba #7967348 · https://tatoeba.org/en/sentences/show/7967348 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=cependant&oldid=39772595",
+        "https://tatoeba.org/en/sentences/show/11033550",
+        "https://tatoeba.org/en/sentences/show/7967348"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.096Z"
+    }
+  },
+  {
+    "id": "698ddd6ed1e621bbdf5e",
+    "lemma": "pourtant",
+    "pos": "adv",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "然而",
+      "可是"
+    ],
+    "ipa": "puʁ.tɑ̃",
+    "theme": "媒介阅读",
+    "etymology": {
+      "root": "tant",
+      "breakdown": [
+        "pour",
+        "tant"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确 pour 与 tant 经词汇化合写；此为有来源支持的历史构成。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-转折与让步",
+      "members": [
+        {
+          "word": "cependant",
+          "diff_key": "中性的转折，较书面"
+        }
+      ],
+      "contrast_note": "常强调出乎意料"
+    },
+    "examples": [
+      {
+        "fr": "Pourtant je te crois.",
+        "zh": "然而，我相信你。",
+        "source": "tatoeba",
+        "attribution": "Micsmithel · Tatoeba #7110276 · https://tatoeba.org/en/sentences/show/7110276 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Tout avait pourtant bien commencé.",
+        "zh": "可是，一切开始时都很顺利。",
+        "source": "tatoeba",
+        "attribution": "Blabla · Tatoeba #5856471 · https://tatoeba.org/en/sentences/show/5856471 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=pourtant&oldid=39802838",
+        "https://tatoeba.org/en/sentences/show/7110276",
+        "https://tatoeba.org/en/sentences/show/5856471"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.096Z"
+    }
+  },
+  {
+    "id": "f2d289cb96d54de7d934",
+    "lemma": "plutôt",
+    "pos": "adv",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "宁可",
+      "相当",
+      "更确切地"
+    ],
+    "ipa": "ply.to",
+    "theme": "媒介阅读",
+    "etymology": {
+      "root": "plustost",
+      "breakdown": [
+        "plus（古法语）",
+        "tost（古法语）"
+      ],
+      "origin_lang": "中古法语／古法语",
+      "note": "词源段记载中古法语 plustost 上溯古法语 plus tost；与现代分写的 plus tôt 用法应区分。",
+      "confidence": "medium"
+    },
+    "synonyms": {
+      "group_id": "sample-偏好与程度",
+      "members": [
+        {
+          "word": "de préférence",
+          "diff_key": "表示优先选择，较正式"
+        }
+      ],
+      "contrast_note": "表示偏好或程度"
+    },
+    "examples": [
+      {
+        "fr": "Il est plutôt costaud.",
+        "zh": "他相当强壮。",
+        "source": "tatoeba",
+        "attribution": "slahatuvelli · Tatoeba #13932068 · https://tatoeba.org/en/sentences/show/13932068 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Faisons plutôt ça.",
+        "zh": "我们还是做那个吧。",
+        "source": "tatoeba",
+        "attribution": "Aiji · Tatoeba #12232751 · https://tatoeba.org/en/sentences/show/12232751 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=plut%C3%B4t&oldid=39142154",
+        "https://tatoeba.org/en/sentences/show/13932068",
+        "https://tatoeba.org/en/sentences/show/12232751"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.096Z"
+    }
+  },
+  {
+    "id": "49aef23cec52a0523b4c",
+    "lemma": "surtout",
+    "pos": "adv",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "尤其",
+      "最重要的是"
+    ],
+    "ipa": "syʁ.tu",
+    "theme": "媒介阅读",
+    "etymology": {
+      "root": "tout",
+      "breakdown": [
+        "sur",
+        "tout"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确 sur 与 tout 构成；现代副词义已固定为尤其、最重要的是等。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-重点与主要",
+      "members": [
+        {
+          "word": "principalement",
+          "diff_key": "主要地，侧重占比或范围"
+        }
+      ],
+      "contrast_note": "强调最值得注意"
+    },
+    "examples": [
+      {
+        "fr": "Surtout, prenez votre temps.",
+        "zh": "最重要的是，慢慢来。",
+        "source": "tatoeba",
+        "attribution": "madjidoumnia · Tatoeba #13218476 · https://tatoeba.org/en/sentences/show/13218476 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Ne reculez surtout pas !",
+        "zh": "千万别退缩！",
+        "source": "tatoeba",
+        "attribution": "felix63 · Tatoeba #13735941 · https://tatoeba.org/en/sentences/show/13735941 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=surtout&oldid=39770624",
+        "https://tatoeba.org/en/sentences/show/13218476",
+        "https://tatoeba.org/en/sentences/show/13735941"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.096Z"
+    }
+  },
+  {
+    "id": "3f0dfb2fd216e243784f",
+    "lemma": "déjà",
+    "pos": "adv",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "已经",
+      "曾经"
+    ],
+    "ipa": "de.ʒa",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "jà",
+      "breakdown": [
+        "dès",
+        "jà（古法语）"
+      ],
+      "origin_lang": "法语；上溯拉丁语",
+      "note": "词源段明确 dès 与 jà 构成，jà 上溯拉丁语 iam（现在、已经）；不是 dé- 加现代 ja。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-已经与此前",
+      "members": [
+        {
+          "word": "auparavant",
+          "diff_key": "表示在此之前"
+        }
+      ],
+      "contrast_note": "强调已发生或已存在"
+    },
+    "examples": [
+      {
+        "fr": "J'ai déjà choisi.",
+        "zh": "我已经选好了。",
+        "source": "tatoeba",
+        "attribution": "mervert1 · Tatoeba #13886103 · https://tatoeba.org/en/sentences/show/13886103 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Elle dort déjà.",
+        "zh": "她已经睡着了。",
+        "source": "tatoeba",
+        "attribution": "Eldad · Tatoeba #1384225 · https://tatoeba.org/en/sentences/show/1384225 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=d%C3%A9j%C3%A0&oldid=39362190",
+        "https://tatoeba.org/en/sentences/show/13886103",
+        "https://tatoeba.org/en/sentences/show/1384225"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.097Z"
+    }
+  },
+  {
+    "id": "50e50e8b04f1133c228f",
+    "lemma": "bientôt",
+    "pos": "adv",
+    "cefr_guess": "A2",
+    "meaning_zh": [
+      "不久",
+      "很快"
+    ],
+    "ipa": "bjɛ̃.to",
+    "theme": "日常生活",
+    "etymology": {
+      "root": "tôt",
+      "breakdown": [
+        "bien",
+        "tôt"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确 bien 与 tôt 构成；合写副词的常用义是不久、很快。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-不久与即将",
+      "members": [
+        {
+          "word": "prochainement",
+          "diff_key": "不久，常用于正式通知"
+        }
+      ],
+      "contrast_note": "即将发生，时间较近"
+    },
+    "examples": [
+      {
+        "fr": "Il arrivera bientôt.",
+        "zh": "他很快就会到。",
+        "source": "tatoeba",
+        "attribution": "Orange · Tatoeba #12209847 · https://tatoeba.org/en/sentences/show/12209847 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "Il pleuvra bientôt.",
+        "zh": "很快就要下雨了。",
+        "source": "tatoeba",
+        "attribution": "sacredceltic · Tatoeba #4961596 · https://tatoeba.org/en/sentences/show/4961596 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=bient%C3%B4t&oldid=39772562",
+        "https://tatoeba.org/en/sentences/show/12209847",
+        "https://tatoeba.org/en/sentences/show/4961596"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.097Z"
+    }
+  },
+  {
+    "id": "6bac120c27cdedc3c0d4",
+    "lemma": "en effet",
+    "pos": "expr",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "确实",
+      "事实上"
+    ],
+    "ipa": "ɑ̃.n‿e.fɛ",
+    "theme": "媒介阅读",
+    "etymology": {
+      "root": "effet",
+      "breakdown": [
+        "en",
+        "effet"
+      ],
+      "origin_lang": "法语",
+      "note": "词源段明确 en 与 effet 组成固定表达；此拆解说明短语结构，不涉及 effet 的更早来源。",
+      "confidence": "high"
+    },
+    "synonyms": {
+      "group_id": "sample-证实与说明",
+      "members": [
+        {
+          "word": "effectivement",
+          "diff_key": "确实，确认事实"
+        }
+      ],
+      "contrast_note": "常用来说明前句"
+    },
+    "examples": [
+      {
+        "fr": "Cela peut en effet arriver !",
+        "zh": "这确实可能发生！",
+        "source": "tatoeba",
+        "attribution": "Rovo · Tatoeba #11152699 · https://tatoeba.org/en/sentences/show/11152699 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "En effet, vous avez raison.",
+        "zh": "的确，您是对的。",
+        "source": "tatoeba",
+        "attribution": "Julien_PDC · Tatoeba #8741462 · https://tatoeba.org/en/sentences/show/8741462 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=en%20effet&oldid=39633965",
+        "https://tatoeba.org/en/sentences/show/11152699",
+        "https://tatoeba.org/en/sentences/show/8741462"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.097Z"
+    }
+  },
+  {
+    "id": "2e494b63b48b9d497420",
+    "lemma": "d'ailleurs",
+    "pos": "expr",
+    "cefr_guess": "B1",
+    "meaning_zh": [
+      "此外",
+      "再说"
+    ],
+    "ipa": "d‿a.jœʁ",
+    "theme": "媒介阅读",
+    "etymology": {
+      "breakdown": [],
+      "note": "已取得曲撇号 d’ailleurs 的原页与整词音标；该修订未列词源段，历史来源尚未核实，因此不提供词根拆解。",
+      "confidence": "low"
+    },
+    "synonyms": {
+      "group_id": "sample-补充与追加",
+      "members": [
+        {
+          "word": "du reste",
+          "diff_key": "补充说明，语域较书面"
+        }
+      ],
+      "contrast_note": "补充支持前句的信息"
+    },
+    "examples": [
+      {
+        "fr": "J'ai sommeil, d'ailleurs il est tard.",
+        "zh": "我困了，再说时间也晚了。",
+        "source": "tatoeba",
+        "attribution": "carlosalberto · Tatoeba #12214456 · https://tatoeba.org/en/sentences/show/12214456 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      },
+      {
+        "fr": "J'ai d'ailleurs besoin de me reposer.",
+        "zh": "再说，我也需要休息。",
+        "source": "tatoeba",
+        "attribution": "Amastan · Tatoeba #4598439 · https://tatoeba.org/en/sentences/show/4598439 · CC BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/) · 中文译文由本项目整理"
+      }
+    ],
+    "tags": [
+      "精选样例",
+      "CEFR推测"
+    ],
+    "_meta": {
+      "sources": [
+        "https://fr.wiktionary.org/w/index.php?title=d%E2%80%99ailleurs&oldid=39772959",
+        "https://tatoeba.org/en/sentences/show/12214456",
+        "https://tatoeba.org/en/sentences/show/4598439"
+      ],
+      "license_note": "词典资料与中文改编：Wiktionnaire contributors, CC BY-SA 4.0；法语例句：各句作者, CC BY 2.0 FR；中文例句译文由本项目整理；CEFR 为人工教学推测，未提供词频排名。",
+      "generated_at": "2026-10-06T15:41:38.097Z"
+    }
+  }
+]
